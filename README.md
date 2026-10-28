@@ -147,6 +147,11 @@ Embora ambos sejam capazes de ordenar os dados corretamente, o Quick Sort costum
 
 Projeto acadêmico desenvolvido para estudo de algoritmos de ordenação em linguagem C.
 
+
+
+Link para teste do programa:
+https://onlinegdb.com/wu3_mn39T
+
 Disciplina: Algoritmos e Estruturas de Dados
 Projeto: Ordenação de preços de produtos de supermercado
 Linguagem: C
