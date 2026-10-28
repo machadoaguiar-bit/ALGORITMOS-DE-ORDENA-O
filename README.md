@@ -85,36 +85,6 @@ Desempenho em listas grandes	Geralmente inferior	Geralmente superior
 
 Os dois algoritmos produzem os mesmos resultados para os dados utilizados, ordenando os produtos pelo preço em ordem crescente.
 
- Como executar o projeto
-1. Pré-requisitos
-
-Instale um compilador C, como o GCC.
-
-2. Salvar o código
-
-Salve o código-fonte do programa em um arquivo chamado:
-
-supermercado.c
-
-3. Compilar o programa
-
-No terminal, acesse a pasta do projeto e execute:
-
-bash
-gcc supermercado.c -o supermercado
-
-4. Executar o programa
-
-No Linux ou macOS:
-
-bash
-./supermercado
-
-
-No Windows, utilizando GCC:
-
-bash
-supermercado.exe
 
 Resultado esperado
 
